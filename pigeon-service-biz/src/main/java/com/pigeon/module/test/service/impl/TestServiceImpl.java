@@ -27,10 +27,3 @@ public class TestServiceImpl implements TestService {
 	}
 
 }
-class te{
-	public static void main(String[] args) {
-		TestService tt = new TestServiceImpl();
-		System.out.println(tt.selectByPrimaryKey(1));
-		
-	}
-}
