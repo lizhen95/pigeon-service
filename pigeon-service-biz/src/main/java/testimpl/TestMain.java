@@ -1,13 +1,13 @@
 package testimpl;
 
-import test.Test;
+import com.pigeon.module.test.service.TestService;
+import com.pigeon.module.test.service.impl.TestServiceImpl;
 
 public class TestMain {
 
 	public static void main(String[] args) {
-		Test test = new TestImpl();
-		String str = "hello word!";
-		System.out.println(test.getTest(str));
+		TestService tt = new TestServiceImpl();
+		System.out.println(tt.selectByPrimaryKey(1).toString());
 	}
 
 }
