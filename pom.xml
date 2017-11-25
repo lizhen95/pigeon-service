@@ -83,26 +83,6 @@
 				<artifactId>fastjson</artifactId>
 				<version>1.2.28</version>
 			</dependency>
-			<dependency>
-				<groupId>com.dianping.lion</groupId>
-				<artifactId>lion-client</artifactId>
-				<version>1.0.0</version>
-			</dependency>
-			<dependency>
-				<groupId>com.dianping.cat</groupId>
-				<artifactId>cat-core</artifactId>
-				<version>2.0.0</version>
-			</dependency>
-			<dependency>
-				<groupId>com.dianping.zebra</groupId>
-				<artifactId>zebra-ds-monitor-client</artifactId>
-				<version>1.0.0</version>
-			</dependency>
-			<dependency>
-				<groupId>com.dianping.dpsf</groupId>
-				<artifactId>dpsf-net</artifactId>
-				<version>3.0.0</version>
-			</dependency>
 			<!-- spring framework dependencies begin -->
 			<dependency>
 				<groupId>org.springframework</groupId>
