@@ -17,8 +17,8 @@ classes/
 
 # Maven
 target
-operation-service-api/target
-operation-service-biz/target
+pigeon-service-api/target
+pigeon-service-biz/target
 
 # Other
 *.doc
