@@ -4,8 +4,9 @@
 
 jdk版本：jdk1.8
 
-Tomcat版本：tomcat7
+Tomcat版本：tomcat-7
 
+maven版本：maven-3.5.0
 
 Commits on Nov 26, 2017 之前的提交为ssm框架的搭建
 
