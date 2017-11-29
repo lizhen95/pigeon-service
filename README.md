@@ -4,6 +4,9 @@
 
 jdk版本：jdk1.8
 
+Tomcat版本：tomcat7
+
+
 Commits on Nov 26, 2017 之前的提交为ssm框架的搭建
 
 Commits on Nov 26, 2017------Commits on Nov 29, 2017 之间的为pigeon服务层架构的搭建
